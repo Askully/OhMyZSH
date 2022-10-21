@@ -1,0 +1,2 @@
+# OhMyZSH
+My OhMyZSH dots
